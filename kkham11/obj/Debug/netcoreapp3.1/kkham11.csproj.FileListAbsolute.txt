@@ -1,0 +1,28 @@
+C:\Users\students\source\repos\kkham11\kkham11\obj\Debug\netcoreapp3.1\kkham11.csproj.AssemblyReference.cache
+C:\Users\students\source\repos\kkham11\kkham11\obj\Debug\netcoreapp3.1\kkham11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\students\source\repos\kkham11\kkham11\obj\Debug\netcoreapp3.1\kkham11.AssemblyInfoInputs.cache
+C:\Users\students\source\repos\kkham11\kkham11\obj\Debug\netcoreapp3.1\kkham11.AssemblyInfo.cs
+C:\Users\students\source\repos\kkham11\kkham11\obj\Debug\netcoreapp3.1\kkham11.csproj.CoreCompileInputs.cache
+C:\Users\students\source\repos\kkham11\kkham11\bin\Debug\netcoreapp3.1\kkham11.exe
+C:\Users\students\source\repos\kkham11\kkham11\bin\Debug\netcoreapp3.1\kkham11.deps.json
+C:\Users\students\source\repos\kkham11\kkham11\bin\Debug\netcoreapp3.1\kkham11.runtimeconfig.json
+C:\Users\students\source\repos\kkham11\kkham11\bin\Debug\netcoreapp3.1\kkham11.runtimeconfig.dev.json
+C:\Users\students\source\repos\kkham11\kkham11\bin\Debug\netcoreapp3.1\kkham11.dll
+C:\Users\students\source\repos\kkham11\kkham11\bin\Debug\netcoreapp3.1\kkham11.pdb
+C:\Users\students\source\repos\kkham11\kkham11\obj\Debug\netcoreapp3.1\kkham11.dll
+C:\Users\students\source\repos\kkham11\kkham11\obj\Debug\netcoreapp3.1\kkham11.pdb
+C:\Users\students\source\repos\kkham11\kkham11\obj\Debug\netcoreapp3.1\kkham11.genruntimeconfig.cache
+Z:\мИСП-19-1\мИСП-19-1\ХАМАЕВ\Управление проектами\Практическая работа №6\kkham11\obj\Debug\netcoreapp3.1\kkham11.csproj.AssemblyReference.cache
+Z:\мИСП-19-1\мИСП-19-1\ХАМАЕВ\Управление проектами\Практическая работа №6\kkham11\obj\Debug\netcoreapp3.1\kkham11.GeneratedMSBuildEditorConfig.editorconfig
+Z:\мИСП-19-1\мИСП-19-1\ХАМАЕВ\Управление проектами\Практическая работа №6\kkham11\obj\Debug\netcoreapp3.1\kkham11.AssemblyInfoInputs.cache
+Z:\мИСП-19-1\мИСП-19-1\ХАМАЕВ\Управление проектами\Практическая работа №6\kkham11\obj\Debug\netcoreapp3.1\kkham11.AssemblyInfo.cs
+Z:\мИСП-19-1\мИСП-19-1\ХАМАЕВ\Управление проектами\Практическая работа №6\kkham11\obj\Debug\netcoreapp3.1\kkham11.csproj.CoreCompileInputs.cache
+Z:\мИСП-19-1\мИСП-19-1\ХАМАЕВ\Управление проектами\Практическая работа №6\kkham11\obj\Debug\netcoreapp3.1\kkham11.dll
+Z:\мИСП-19-1\мИСП-19-1\ХАМАЕВ\Управление проектами\Практическая работа №6\kkham11\obj\Debug\netcoreapp3.1\kkham11.pdb
+Z:\мИСП-19-1\мИСП-19-1\Хамаев キラ\Управление проектами\Практическая работа №6\kkham11\obj\Debug\netcoreapp3.1\kkham11.csproj.AssemblyReference.cache
+Z:\мИСП-19-1\мИСП-19-1\Хамаев キラ\Управление проектами\Практическая работа №6\kkham11\obj\Debug\netcoreapp3.1\kkham11.GeneratedMSBuildEditorConfig.editorconfig
+Z:\мИСП-19-1\мИСП-19-1\Хамаев キラ\Управление проектами\Практическая работа №6\kkham11\obj\Debug\netcoreapp3.1\kkham11.AssemblyInfoInputs.cache
+Z:\мИСП-19-1\мИСП-19-1\Хамаев キラ\Управление проектами\Практическая работа №6\kkham11\obj\Debug\netcoreapp3.1\kkham11.AssemblyInfo.cs
+Z:\мИСП-19-1\мИСП-19-1\Хамаев キラ\Управление проектами\Практическая работа №6\kkham11\obj\Debug\netcoreapp3.1\kkham11.csproj.CoreCompileInputs.cache
+Z:\мИСП-19-1\мИСП-19-1\Хамаев キラ\Управление проектами\Практическая работа №6\kkham11\obj\Debug\netcoreapp3.1\kkham11.dll
+Z:\мИСП-19-1\мИСП-19-1\Хамаев キラ\Управление проектами\Практическая работа №6\kkham11\obj\Debug\netcoreapp3.1\kkham11.pdb
